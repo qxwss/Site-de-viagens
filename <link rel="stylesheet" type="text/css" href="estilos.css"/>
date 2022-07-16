@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Projeto VG</title>
+        <style>
+          h1 {
+              height:30px;
+          }
+            p {
+                color:green;
+            }
+                p {font-family:"Helvetica", sans-serif;}
+                p {
+                    font-family:monospace;
+                }
+                #outro-site{
+                    color:black;
+                    background-color:rgb(70, 219, 252);
+                }
+                h2 {
+                    height:10px;
+                    color:orange;
+                }
+                ul{
+                    color:black;
+                }
+                #inglaterra{
+                    color:black;
+                }
+                #frança{
+                    color:red;
+                }
+                #egito{
+                    color:yellow;
+                }
+                #italia{
+                    color:green;
+                }
+        </style>
+    </head>
+    <body>
+        <h1><em>VIAGENS</em></h1>
+  <p><strong>Viajar faz bem para o seu corpo,<br>
+    para a sua mente e para as suas emoções<br>
+Todo viajante sabe que quanto mais perto vai chegando o dia da viagem,<br>
+mais o coração fica acelerado,<br>
+aquela ansiedade saudável aumenta e quase se torna insuportável.<br>
+É a expectativa de conhecer um novo lugar incrível
+ou matar a saudade de uma cidade que a gente tanto amou conhecer.</strong></p>
+    <img src="https://dsdsuzy1jtjfw.cloudfront.net/wp-content/uploads/2017/11/Avi%C3%A3o-shutterstock_255197383.jpg"alt="Avião decolandoa" width="200">
+    <p id="outro-site"><a target="_blank" href="https://pt.wikipedia.org/wiki/Avi%C3%A3o">Conheça mais sobre os aviões</a></p>
+    <h2>
+        Os 5 lugares mais visitados
+        <ol>
+            <li id="inglaterra"> Londres, Inglaterra
+            <li id="frança">Paris, França
+            <li id="egito">Guizé, Egito
+            <li id="italia">Roma, Itália
+            <li id="indonesia">Bali, Indonésia
+        </ol>
+    </h2>
+    </body>
+</html>
